@@ -14,37 +14,37 @@ O projeto consiste em uma ou mais páginas web que possibilitam o registro de vi
 
 O formulário de registro de visitantes abstrai a etapa 01 do processo, onde o visitante informa **nome completo**, **CPF**, **data de nascimento**, **departamento** que deseja visitar e a **placa do veículo**, caso esteja utilizando durante a visita. O formulário salva automaticamente o **horário de chegada** do visitante.
 
-![Tela de registro de visitante](docs/images/screenshot-from-2020-05-11-14-09-52.png)
+![screenshot-from-2020-05-11-14-09-52](https://github.com/matfurrier/controle-portaria/assets/30526394/cd5c1283-e79f-4805-be9d-ff07ff2a181d)
 
 ### Listagem de Visitantes 📋
 
 A listagem de visitantes exibe, por meio de uma tabela, os visitantes recentes classificados por horário de chegada, do mais recente ao mais antigo.
 
-![Tela com lista de visitantes recentes](docs/images/screenshot-from-2020-05-11-16-26-59.png)
+![screenshot-from-2020-05-11-16-26-59](https://github.com/matfurrier/controle-portaria/assets/30526394/a8cd2bef-2cb3-4453-b52b-b2fb75290bdc)
 
 ### Widgets para Resumo de Informações 📊
 
 Os widgets na página inicial da dashboard exibem um resumo dos números referentes aos visitantes em cada status e o número total de visitantes registrados no mês.
 
-![Captura de tela de widgets para resumo de informações de visitantes](docs/images/screenshot_2020-04-08_12-21-52%20%281%29.png)
+![screenshot_2020-04-08_12-21-52 (1)](https://github.com/matfurrier/controle-portaria/assets/30526394/6363de6b-0dc2-49f6-9c5f-f458b899e18b)
 
 ### Visualização de Informações de Visitante 👀
 
 A partir da tabela que lista os visitantes recentes, é possível acessar a página que exibe as informações detalhadas de cada visitante.
 
-![Tela de informações de visitante](docs/images/screenshot-from-2020-05-11-16-41-43.png)
+![screenshot-from-2020-05-11-16-41-43](https://github.com/matfurrier/controle-portaria/assets/30526394/1f722b42-e988-48a3-80a2-7136f1d7b7f0)
 
 ### Autorização de Entrada 🚪
 
 A tela de informações de visitante permite a autorização de entrada do visitante, através do preenchimento de um formulário com o nome do colaborador que autorizou a entrada.
 
-![Tela de informações de visitante com botão para autorizar a entrada](docs/images/screenshot-from-2020-05-11-16-42-04.png)
+![screenshot-from-2020-05-11-16-42-04](https://github.com/matfurrier/controle-portaria/assets/30526394/d99a52d1-39d6-45ca-8890-a23f9cdbf14d)
 
 ### Finalização de Visita 🚪🚶
 
 A tela de informações de visitante também permite a finalização da visita, com a confirmação da ação sem necessidade de informações adicionais.
 
-![Tela de informações de visitante com botão para finalizar visita](docs/images/screenshot-from-2020-05-11-16-42-56.png)
+![screenshot-from-2020-05-11-16-42-56](https://github.com/matfurrier/controle-portaria/assets/30526394/50d532fb-5eae-42a6-82f6-30c6c5040014)
 
 ## 🛠️ Tecnologias Utilizadas
 
