@@ -40,6 +40,10 @@ A tela de informações de visitante permite a autorização de entrada do visit
 
 ![screenshot-from-2020-05-11-16-42-04](https://github.com/matfurrier/controle-portaria/assets/30526394/d99a52d1-39d6-45ca-8890-a23f9cdbf14d)
 
+Assim como quando o porteiro anotava o nome do colaborador responsável por autorizar a entrada e o horário de contato com esse colaborador, a funcionalidade recebe o nome do colaborador através de um formulário e salva o horário de contato e autorização de forma automática ao concluir a ação.
+
+![2023-07-27 15_30_32-Controle de Visitantes](https://github.com/matfurrier/controle-portaria/assets/30526394/935c553c-6047-4151-822d-0499f2d0d557)
+
 ### Finalização de Visita 🚪🚶
 
 A tela de informações de visitante também permite a finalização da visita, com a confirmação da ação sem necessidade de informações adicionais.
