@@ -50,6 +50,19 @@ A tela de informações de visitante também permite a finalização da visita, 
 
 ![2023-07-27 15_59_46-Controle de Visitantes](https://github.com/matfurrier/controle-portaria/assets/30526394/ff9a10dd-56cd-4705-9498-2bbaa9bfc8aa)
 
+
+## Como Contribuir 👥
+
+Se você deseja contribuir com melhorias para o Controle de Portaria, fique à vontade para abrir uma [issue](https://github.com/matfurrier/controle-portaria/issues) ou enviar um pull request. Sua colaboração é valiosa para aprimorar a qualidade do aplicativo e oferecer uma ferramenta ainda mais eficiente.
+
+## 📄 Licença
+
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` para obter mais informações.
+
+## 📬 Contato
+
+Para mais informações ou dúvidas sobre o Qliksense, entre em contato através do e-mail matfurrier@gmail.com.
+
 ## 🛠️ Tecnologias Utilizadas
 
 O projeto utiliza as seguintes tecnologias e recursos de código aberto:
