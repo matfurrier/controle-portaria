@@ -61,7 +61,7 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` p
 
 ## 📬 Contato
 
-Para mais informações ou dúvidas sobre o Qliksense, entre em contato através do e-mail matfurrier@gmail.com.
+Para mais informações ou dúvidas sobre o Controle de Portaria, entre em contato através do e-mail matfurrier@gmail.com.
 
 ## 🛠️ Tecnologias Utilizadas
 
