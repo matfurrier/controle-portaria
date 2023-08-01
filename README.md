@@ -50,6 +50,35 @@ A tela de informações de visitante também permite a finalização da visita, 
 
 ![2023-07-27 15_59_46-Controle de Visitantes](https://github.com/matfurrier/controle-portaria/assets/30526394/ff9a10dd-56cd-4705-9498-2bbaa9bfc8aa)
 
+### Agendamento de Carga/Descarga 📦🚚
+
+Além das funcionalidades já mencionadas, o projeto Controle de Visitantes também inclui a funcionalidade de Agendamento de Carga/Descarga. Essa funcionalidade permite que os colaboradores e visitantes programem previamente o agendamento de cargas e descargas, facilitando o controle e organização das operações de logística na empresa.
+
+## 🔍 Principais Funcionalidades
+
+### Dashboard Geral com Calendário de Agendamentos 📅
+
+Além de exibir um resumo das informações sobre os agendamentos, o dashboard geral apresenta um calendário que permite visualizar as agendas já realizadas. Dessa forma, os colaboradores e responsáveis pela logística podem ter uma visão abrangente das operações já concluídas, bem como das próximas programadas.
+
+![2023-08-01 13_14_37-](https://github.com/matfurrier/controle-portaria/assets/30526394/8d281f40-82d3-4a4f-b09a-6eaa9cd27f3e)
+
+Essa funcionalidade proporciona uma visão mais abrangente do fluxo de agendamentos ao longo do tempo, facilitando o acompanhamento e a organização das atividades de carga e descarga na empresa. Os agendamentos realizados aparecem no calendário com as respectivas datas e horários em que foram programados.
+
+Além disso, o calendário também pode exibir informações adicionais sobre os agendamentos realizados, como o nome da empresa ou visitante envolvido na operação e quaisquer observações relevantes que tenham sido fornecidas durante o agendamento.
+
+![2023-08-01 13_22_27-Controle de Visitantes](https://github.com/matfurrier/controle-portaria/assets/30526394/15e8f468-745a-4175-8352-081ce2a1cbf8)
+
+Essa visualização no calendário torna o processo de gerenciamento de agendamentos mais intuitivo e eficiente, permitindo que a equipe responsável tenha uma visão geral das atividades e se prepare adequadamente para as próximas operações.
+
+### Como Agendar Carga/Descarga
+
+O agendamento de carga/descarga é feito através do formulário disponível no menu de Agendamento. Os fornecedores devem fornecer as seguintes informações:
+- Data e hora do agendamento: Selecione a data e hora desejadas para a carga ou descarga.
+- Empresa ou visitante: Informe o nome da empresa ou do visitante que realizará a operação.
+- Observações: Forneça quaisquer observações ou instruções adicionais relacionadas ao agendamento.
+
+]![2023-08-01 13_22_00-Controle de Visitantes](https://github.com/matfurrier/controle-portaria/assets/30526394/fddd12aa-c633-40e3-b802-dac8cdc6b25d)
+
 
 ## Como Contribuir 👥
 
